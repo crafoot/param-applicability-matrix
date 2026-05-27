@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# type: ignore[import]
 from __future__ import annotations
 """
 参数适用性矩阵生成程序
