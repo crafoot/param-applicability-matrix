@@ -35,8 +35,6 @@ from __future__ import annotations
   （或双击运行，选择文件夹即可）
 """
 
-from __future__ import annotations
-
 import re
 import sys
 from collections import Counter, OrderedDict, defaultdict
